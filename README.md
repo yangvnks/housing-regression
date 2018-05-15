@@ -12,6 +12,16 @@ Below are provided the steps that were followed for this project. Each step and 
 1. **Data visualisation & Preprocessing**: with the knowledge acquired with the preceding step, apply preprocessing of data including dealing with missing values, drop unuseful features and build new features
 2. **Regression**: use regression techniques based on the preprocessed data using a variety of algorithms
 
+## Regression techniques
+Regression techniques together with the relative scores (RMSE)
+
+| Regressor | CV score | Kaggle score |
+| ------ |:------:|:------:|
+| *ENet* | 0.10811 | 0.11926|
+| *GBoost* | 0.10882 | 0.12412 |
+| *XGB* | 0.11041 | 0.12188 |
+| *KRR* | 0.11202 | - |
+| *Ensemble*| 0.1051 | 0.11765 |
 
 
 ## Folder structures
