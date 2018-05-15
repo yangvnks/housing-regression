@@ -29,8 +29,6 @@ Regression techniques together with the relative scores (RMSE)
 * `\Data` contains the project dataset given in the Kaggle challenge
 * `\Data\outputs` contains the outputs given by the classifiers that were submitted to Kaggle
 
-## Installation instructions
-1. Install Python and clone this repository
-2. Install required Python modules with `pip install -r requirements.txt`
 
-to run the [jupyter](http://jupyter.org/)'s notebooks just go with `jupyter notebook`
+
+To run the [jupyter](http://jupyter.org/)'s notebooks just go with `jupyter notebook`
